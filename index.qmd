@@ -4,8 +4,8 @@
     id: about-block
     template: jolla
     image: "img/my_image.jpg"
-    image-width: 40em
-    image-shape: rectangle
+    image-width: 20em
+    image-shape: round
     links:
     - icon: twitter
       text: Twitter
@@ -21,18 +21,16 @@
       href: "mailto:rnarayan@lsu.edu"  
 ---
 
-::: {#about-block}
-Dr. Rajesh Narayanan (Nuh-raay-nan) is the **Hermann Moyse/Louisiana Bankers Association Professor of Finance,** and the **Chair of the Department of Finance** in the E.J. Ourso College of Business at Louisiana State University.
+::: {#about-block style="center"}
+**Hermann Moyse Jr./Louisiana Bankers Association Professor of Finance**
 
-Dr. Narayanan's academic research focuses broadly on issues related to banking and financial markets. His research has been published articles in leading academic journals including the Journal of Financial Economics, Review of Financial Studies and Journal of Money Credit and Banking. He has made numerous research presentations at national and internal conferences and universities. His interviews and commentary have been featured in national media outlets such as the Wall Street Journal, CNN/Money, Bloomberg, Fortune as well as in regional and local media outlets such the Times Picayune, The Advocate, Baton Rouge Business report, WBRZ-TV, and WWL-Radio.
-
-Dr. Narayanan has mentored doctoral students, many of whom are in tenured faculty positions, organized and led international consulting projects for numerous MBA and MS students who have gone to successful careers in industry, and directed undergraduate honors students who have won national thesis awards. He has delivered lectures to and conducted seminars on various topics for executives and technocrats in Brazil, China, the Czech Republic, India, Malaysia and South Africa.
-
+<!--
 #### Current Research Interests
 
 Banking \| FinTech \| Cryptocurrencies \| Slavery
 
-### 
+-->
+ 
 :::
 
 # 
