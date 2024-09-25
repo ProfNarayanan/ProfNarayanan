@@ -1,0 +1,111 @@
+---
+title: "Research"
+format:
+  html:
+    toc: true
+    theme: cosmo   # cosmo bootswatch theme
+    linkcolor: rebeccapurple;
+    number-sections: true
+    number-depth: 3
+---
+
+## Working Papers {.unnumbered}
+
+1. ["What links Scaling Laws, CES Utilty and Technology Adoption"]( https://ssrn.com/abstract=4906726) with Kelley Pace, 2024
+
+1. ["Depositor Characteristics and Deposit Stability"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839754) with Dimuthu Ratnadiwakara, 2024
+
+1.  ["The Paradox of Slave Collateral"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4768207) with Jonathan Pritchett, 2024
+
+    -   Presented at EHA 2022, Tulane, LSU, University of Michigan.
+
+1.  ["Information Sensitivity and Information Production Dynamics of Safe Securities"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4040319) with Meredith Rhodes, 2024
+
+    -   Presented at FRBNY, FRBATL, FMA, Tulane, LSU
+
+1. "Appraisal Accuracy and its Effect on Loan Collateral" with Yinying Guo, Kelley Pace and Dimuthu Ratnadiwakara, 2022 
+
+    -   Presented at JHE ZTraxx Conference, 2023, FSU/UF Conference 2024
+    
+1. ["A Revealed Preference Approach to Identifying Strategic Mortgage Default"](https://ssrn.com/abstract=2985154 or http://dx.doi.org/10.2139/ssrn.2985154) with Meagan McCollum and Kelley Pace, 2022
+
+    -   Presented at Baruch College, CUNY, LSU, Fordham
+
+
+
+1. "Concentration Risk in Mortgage Portfolios: A Rank-Size Approach" with Tim Dombrowski and Kelley Pace 2022
+
+    -   Presented at ASSA 2023
+
+## Publications {.unnumbered}
+
+1.  ["Valuation when disaster risks increase at an increasing rate"](https://doi.org/10.1016/j.econlet.2023.111013) with Ravi Joshi and Kelley Pace\
+    Economics Letters, 2023 Vol.224
+
+2.  ["Demographic, jurisdictional, and spatial effects on social distancing in the United States during the COVID-19 pandemic"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239572) with James Nordlund, Kelley Pace and Dimuthu Ratnadiwakara\
+    PLoS ONE 2020, 15(9)
+
+3.  ["The Rank-Size rule and Challenges in Diversifying Commercial Real Estate Portfolios"](https://link.springer.com/article/10.1007/s11146-020-09765-6#:~:text=The%20rank%2Dsize%20rule%2C%20a,a%20commercial%20real%20estate%20portfolio.) with Tim Dombrowski and Kelley Pace\
+    Journal of Real Estate Finance and Economics, 2020, Vol.67, 1-28
+
+4.  ["Credit Default Swaps and Firm Value"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F8B7B78DEB720771DBA47AF43E84934B/S0022109017001235a.pdf/credit-default-swaps-and-firm-value.pdf) with Cihan Uzmanoglu\
+    Journal of Financial and Quantitative Analysis, 2018, Vol.53(3), 1227-1259
+
+5.  [How do Firms Respond to Empty Creditor holdout in Distressed Debt Exchanges?"](https://www.sciencedirect.com/science/article/pii/S0378426618301717?casa_token=SqfnVCUVCr0AAAAA:BI-Y8J3A323WE1BDKL3Ymymxab88yNNqf53JpeZ6-v8ykMw3MJchc85DPUQm2IObvWxyE6wryQ) with Cihan Uzmanoglu\
+    Journal of Banking and Finance, 2018, Vol.94, 251-266
+
+6.  ["Credit Insurance, Distress Resolution Costs, and Bond Spreads"](https://onlinelibrary.wiley.com/doi/abs/10.1111/fima.12215) with Cihan Uzmanoglu\
+    Financial Management, 2018, Vol.47(4), 931-951.
+
+7.  ["Efficiency and Market Power Gains in Bank Megamergers: Evidence from Value Line Forecasts"](https://onlinelibrary.wiley.com/doi/abs/10.1111/fima.12134) with Erik Devos and Srini Krishnamurthy\
+    Financial Management, 2016 Vol.45(14), 1011-1040
+
+    Reprinted in a special virtual issue from FMA on M&A curated by Gordon Phillips, 2018
+
+8.  ["Has the effect of Asset Securitization on Bank Risk Taking Behavior Changed?"](https://link.springer.com/article/10.1007/s10693-015-0214-1) with Huong Le and Lai Vo\
+    Journal of Financial Services Research, 2016,Vol.49(1), 39-64
+
+9.  ["CDS and the Resolution of Distress"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-6622.2012.00406.x?casa_token=mDB1fPkm7OcAAAAA:H_WyOJO950VzJkOl4DijegNr9qbpiFX_UFnODA9QuTmPwoixNlLHW3L0ILKpIRq7VgYU_Sit6UOllKA) with Stephen Lubben\
+    Journal of Applied Corporate Finance, 2012, Vol. 24(4), 129-134.
+
+10. ["Safety Net Losses from Abandoning Glass-Steagall Restrictions"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1538-4616.2011.00428.x?casa_token=Rzb8fBzpuPsAAAAA:pWap_3plmpW7SdDI_HvwgaWYEU3NkCjZMlkTARlepupanFq0S_c19rPLk4FNIfsbRcIOW29jMtv3Ato) with Ken Carow and Ed Kane\
+    Journal of Money Credit and Banking, 2011, Vol. 43(7), 1371-1398.
+
+11. ["The Effect of Private Debt Underwriting Reputation on Bank Public Debt Underwritings"](https://academic.oup.com/rfs/article-abstract/20/3/597/1563823?redirectedFrom=PDF&casa_token=tbMGl8ZrYGMAAAAA:GZOVepRbzzmZrGvW0XFoFvKIxVAN5jUygxDTdr_r1NfQxv2Rgd-ZPRKtUuMjBunQSmdJsaScHZjDHw) with Kasturi Rangan and Nanda Rangan\
+    Review of Financial Studies, 2007, Vol. 20, 597-618.
+
+12. ["How Have Borrowers Fared in Banking Mega-Mergers?"](https://muse.jhu.edu/article/198099/pdf#info_wrap) with Ken Carow and Ed Kane\
+    Journal of Money Credit and Banking, 2006, Vol. 38, 821-836.
+
+13. ["The Role of Syndicate Structure in Bank Underwriting"](https://www.sciencedirect.com/science/article/pii/S0304405X03001879?casa_token=dMIajSrL6msAAAAA:m_SJ5ISFMBxlcKDpl0wbP12fIMaOlpj3_ZWJXN_me7KGRkN7Kat-EdURwZg3D5ojMiQKH4Zt5g) with Kasturi Rangan and Nanda Rangan\
+    Journal of Financial Economics, 2004, Vol. 72, 555 -- 580.
+
+    Outstanding Paper Award, Eastern Finance Association, 2002
+
+14. ["Relaxing Glass-Steagall Provisions: Wealth and Risk Effects on Foreign Banks and their Domestic Corporate Customers"](https://www.sciencedirect.com/science/article/pii/S1042444X03000215?casa_token=yvtqHIFItsQAAAAA:TuPT6Unis6pPxMLmOc-G5BFEkIPkS59m4z4ZVG4fEP4G7CrEb5HLhQqQkKT-p3GFuz9Ik1M-ug) with Nanda Rangan and Sri Sundaram\
+    Journal of Multinational Financial Management, 2003, Vol. 13, 465-482.
+
+15. "Option Trading and Stock Returns: A Re-examination" with Nanda Rangan and Terry\
+    Research in Banking and Finance, 2003, Vol. 3, 287-330.
+
+16. ["Welfare Effects of Expanding Banking Organization Opportunities in the Securities Arena"](https://www.sciencedirect.com/science/article/pii/S1062976901001302?casa_token=Xye9yEyyGNMAAAAA:9DKbA8gS0DcMOeoeGcCkO5nGPNamL7NbsQ8f0AX_nh3mLt7B2zx1fiQKeq59P7JJdk_RpdNsBg) with Nanda Rangan and Sri Sundaram\
+    Quarterly Review of Economics and Finance, 2002, Vol. 42, 505-527.
+
+17. "The Role of Reputation Scope Economies in Bank Underwriting" with Kasturi Rangan and Nanda Rangan\
+    Proceedings of the 39th Annual Conference on Bank Structure and Competition, Federal Reserve Bank of Chicago, 2004
+
+## Book Chapters {.unnumbered}
+
+["Financial Economics of United States Slavery](https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-761)" with Jonathan Pritchett\
+Oxford Research Encyclopedia of Economics and Finance, 2021
+
+["Mortgage Portfolio Diversification in the Presence of Cross-Sectional and Spatial Dependence"](https://www.emerald.com/insight/content/doi/10.1108/S0731-905320200000041014/full/html) with Tim Dombrowski and Kelley Pace\
+Essays in Honor of Cheng Hsiao  (Advances in Econometrics,  Li, T., Pesaran, M.H. and Terrell, D. (Ed.) , 2020
+
+"Fairness Opinions in Mergers and Acquisitions" with Steven Davidoff and Anil Makhija\
+The Art of Capital Restructuring: Creating Shareholder Value through Mergers and Acquisitions, H. Kent Baker and Halil Kiymaz (Ed.), 2010
+
+"Individual Retirement Account;" "Keogh Plans;" "Capital Gain;" "Savings Investments" Kaye Rakes\
+Encyclopedia of Financial Gerontology, Lois A. Vitt (Ed.) et. al., 2002
+
+##  {.unnumbered}
